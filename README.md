@@ -2,7 +2,7 @@
 
 Welcome to the most savage, unfiltered, and downright brutal AI roast battle simulator on the internet! Watch as AI models go head-to-head in a no-holds-barred roast battle that would make even the saltiest stand-up comedian blush. 🤖💥🤖
 
-![AI Roast Show Banner](.streamlit/Screenshot 2025-08-30 at 9.25.35 PM.png)
+![AI Roast Show Banner](images/Screenshot 2025-08-30 at 9.25.35 PM.png)
 
 ## 🚀 Features
 
