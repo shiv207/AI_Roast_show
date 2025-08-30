@@ -2,7 +2,7 @@
 
 Welcome to the most savage, unfiltered, and downright brutal AI roast battle simulator on the internet! Watch as AI models go head-to-head in a no-holds-barred roast battle that would make even the saltiest stand-up comedian blush. 🤖💥🤖
 
-![AI Roast Show Banner](https://img.freepik.com/free-vector/robot-boxing-fight-mma-martial-arts-competition-fighting-cyborgs-battle-cyber-sports-esports-competition-vector-illustration_107791-10199.jpg?w=1380&t=st=1693420000~exp=1693420600~hmac=YOUR_ACTUAL_HASH)
+![AI Roast Show Banner](.streamlit/Screenshot 2025-08-30 at 9.25.35 PM.png)
 
 ## 🚀 Features
 
@@ -91,5 +91,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 💡 **Pro Tip**: Don't take it personally - even the AI doesn't mean it (probably).
-
-![Good luck, have fun!](https://img.freepik.com/free-vector/robot-boxing-fight-mma-martial-arts-competition-fighting-cyborgs-battle-cyber-sports-esports-competition-vector-illustration_107791-10199.jpg?w=1380&t=st=1693420000~exp=1693420600~hmac=YOUR_ACTUAL_HASH)
