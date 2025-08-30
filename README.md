@@ -48,7 +48,7 @@ Welcome to the most savage, unfiltered, and downright brutal AI roast battle sim
 - **Model B**: The challenger with a chip on its neural network
 
 ### Bring Your Own Fighters:
-- Any OpenRouter or AIML API compatible model
+- Any OpenRouter
 - Try different models to see who roasts best!
 
 ## ⚙️ Configuration
